@@ -14,9 +14,26 @@ Here are some ideas to get you started:
 -->
 
 ## Hey! 👋
-I'm 黄键熙, a developer from China.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-+ a lot more ;)
+
+class Kinhei:
+
+    def __init__(self):
+        self.name = "Jianxi Huang"
+        self.role = "Master's degree student"
+        self.language_spoken = ["zh_CN", "en_US"]
+        self.major = ["Visualization", "Human-Computer Interaction", "Artificial Intelligence"]
+
+    def say_hi(self):
+        print("Welcome to my profile, hope you have a good day!")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## Skills
 - 👨‍💻 Python, TypeScript, JavaScript, C, C#, etc...
@@ -26,8 +43,16 @@ I'm 黄键熙, a developer from China.
 + a lot more :D
 
 ## Intersted 
+- Programming
+- Games
+- Traveling
+- Sports
 
-## Currently working on..
-![image](https://github.com/user-attachments/assets/8140a20b-614c-46e8-9c3b-6bb4057e9e5a)
+## Projects
+-- ### AniFlow
+
+
+-- ### WuXue
+
 
 
