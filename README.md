@@ -25,6 +25,7 @@ class Kinhei:
         self.name = "Jianxi Huang"
         self.role = "Master's degree student"
         self.language_spoken = ["zh_CN", "en_US"]
+        self.base = "Shenzhen University"
         self.major = ["Visualization", "Human-Computer Interaction", "Artificial Intelligence"]
 
     def say_hi(self):
@@ -42,17 +43,17 @@ me.say_hi()
 - 💽 MongoDB
 + a lot more :D
 
-## Intersted 
+## Interests
 - Programming
 - Games
 - Traveling
 - Sports
 
 ## Projects
--- ### AniFlow
+- ### AniFlow
 
 
--- ### WuXue
+- ### WuXue
 
 
 
