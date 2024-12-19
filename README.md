@@ -37,7 +37,7 @@ me.say_hi()
 ```
 
 ## Skills
-- 👨‍💻 Python, TypeScript, JavaScript, C, C#, etc...
+- 👨‍💻 Python, TypeScript, JavaScript, C/C++, C#, more in future...
 - ⚙️ Vue, Unity, Pytorch
 - 👁️ SASS, CSS, UnoCSS
 - 💽 MongoDB
