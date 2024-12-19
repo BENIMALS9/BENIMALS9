@@ -41,7 +41,8 @@ me.say_hi()
 - ⚙️ Vue, Unity, Pytorch
 - 👁️ SASS, CSS, UnoCSS
 - 💽 MongoDB
-+ const more = {
+```typescript
+const more = {
     pronouns: "He" | "Him",
     code: ["Python", "TypeScript", "Javascript", "C/C++", "C#"],
     experiences: ["web dev", "IoT dev", "game dev", "data analysis/visualization", "deep learning"],
@@ -64,6 +65,7 @@ me.say_hi()
         gameEngine: ['Unity'],
     },
 };
+```
 
 ## Interests
 - Programming
