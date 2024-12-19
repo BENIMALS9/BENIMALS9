@@ -41,7 +41,29 @@ me.say_hi()
 - ⚙️ Vue, Unity, Pytorch
 - 👁️ SASS, CSS, UnoCSS
 - 💽 MongoDB
-+ a lot more :D
++ const more = {
+    pronouns: "He" | "Him",
+    code: ["Python", "TypeScript", "Javascript", "C/C++", "C#"],
+    experiences: ["web dev", "IoT dev", "game dev", "data analysis/visualization", "deep learning"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "Jquery"],
+            css: ["Sass", "Tailwind", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Element Plus"],
+            visLibraries: ["Paper.js", "ECharts"],
+        },
+        backEnd: {
+            js: ["Node"],
+            python: ["Flask", "Tornado"],
+        },
+        machineLearning: {
+            library: ["pytorch", "transformers", "scikit-learn", "mediapipe"],
+        },
+        databases: ["PostgreSQL", "MongoDB"],
+        misc: ["RESTful APIs", "WebSockets"],
+        gameEngine: ['Unity'],
+    },
+};
 
 ## Interests
 - Programming
@@ -54,6 +76,9 @@ me.say_hi()
 
 
 - ### WuXue
+
+
+- ### Sandbox
 
 
 
