@@ -32,7 +32,7 @@ class Kinhei:
         print("Welcome to my profile, hope you have a good day!")
 
 
-me = SoftwareEngineer()
+me = Kinhei()
 me.say_hi()
 ```
 
