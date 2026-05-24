@@ -38,10 +38,10 @@ me.say_hi()
 ```
 
 ## Skills
-- 👨‍💻 Python, TypeScript, JavaScript, C/C++, C#, more in future...
+- 👨‍💻 Python (Primary) | C++ (Professional) | TS/JS, C# (Academic) | Systems Programming, more in future...
 - ⚙️ Vue, Unity, Pytorch
 - 👁️ SASS, CSS, UnoCSS
-- 💽 MongoDB
+- 💽 MongoDB, PostgreSQL
 ```typescript
 const more = {
     pronouns: "He" | "Him",
