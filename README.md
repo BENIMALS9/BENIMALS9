@@ -74,6 +74,11 @@ const more = {
 - Games
 - Traveling
 - Sports
+- Photo shooting
+- Food making
+- Movie
+- History
+- ...... (Maybe Drum set and Boxing or Mixed Martial Arts, will be haha)
 
 ## Projects
 ### AniFlow
